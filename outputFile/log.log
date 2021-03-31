@@ -1,0 +1,14 @@
+31.03.2021 23:08:08.803 [main] [DEBUG]  by.issoft.secondMod.Main - The program starts.
+31.03.2021 23:08:08.809 [main] [DEBUG]  by.issoft.secondMod.Main - Creating an array.
+31.03.2021 23:08:08.809 [main] [DEBUG]  by.issoft.secondMod.Main - Array is created.
+31.03.2021 23:08:08.809 [main] [DEBUG]  by.issoft.secondMod.Main - Start recursive binary search.
+31.03.2021 23:08:08.820 [main] [DEBUG]  by.issoft.secondMod.Main - Recursive binary search is over.
+31.03.2021 23:08:08.826 [main] [DEBUG]  by.issoft.secondMod.Main - Result: element found at index 3.
+31.03.2021 23:08:08.827 [main] [DEBUG]  by.issoft.secondMod.Main - The end of the program.
+31.03.2021 23:11:14.446 [main] [DEBUG]  by.issoft.secondMod.Main - The program starts.
+31.03.2021 23:11:14.450 [main] [DEBUG]  by.issoft.secondMod.Main - Creating an array.
+31.03.2021 23:11:14.450 [main] [DEBUG]  by.issoft.secondMod.Main - Array is created.
+31.03.2021 23:11:14.450 [main] [DEBUG]  by.issoft.secondMod.Main - Start recursive binary search.
+31.03.2021 23:11:14.454 [main] [DEBUG]  by.issoft.secondMod.Main - Recursive binary search is over.
+31.03.2021 23:11:14.464 [main] [DEBUG]  by.issoft.secondMod.Main - Result: element found at index 3.
+31.03.2021 23:11:14.464 [main] [DEBUG]  by.issoft.secondMod.Main - The end of the program.
