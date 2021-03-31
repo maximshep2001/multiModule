@@ -1,3 +1,4 @@
+/*
 package by.issoft.secondMod;
 
 import org.slf4j.Logger;
@@ -25,4 +26,4 @@ public class Main {
 
     }
 
-}
+}*/

@@ -1,3 +1,4 @@
+/*
 package by.issoft.firstMod;
 
 import org.slf4j.Logger;
@@ -33,3 +34,4 @@ public class Util {
     }
 
 }
+*/
