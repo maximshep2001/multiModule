@@ -1,6 +1,5 @@
 package by.issoft.firstMod;
 
-
 import by.issoft.secondMod.Util;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +13,7 @@ public class Main {
         int[] array = { 2, 3, 4, 10, 40, 50 };
         logger.debug("Array is created.");
         int amountElements = array.length;
+        logger.debug("Setting the number to search");
         int searchNumber = 10;
 
         logger.debug("Start recursive binary search.");
